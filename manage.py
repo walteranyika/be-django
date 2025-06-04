@@ -20,3 +20,11 @@ def main():
 
 if __name__ == '__main__':
     main()
+# aws
+# render.com
+
+# github.com/walteranyika/be-django
+
+
+
+
